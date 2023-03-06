@@ -34,3 +34,18 @@ let stringConstantMutableWithTyping: String = "string"
 let boolConstantMutableWithTyping: Bool = true
 
 print(integer)
+
+// Data Conversion (Casting)
+let intTen = 10
+let stringTen = String(intTen)
+print(stringTen)
+
+let stringFive = "5"
+let intFive = Int(stringFive)
+print(intFive)
+
+let x = "15.5"
+let xDouble = Double(x)
+print(xDouble)
+
+
