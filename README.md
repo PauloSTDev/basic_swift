@@ -1,19 +1,51 @@
-# Swift
+<div align="center">
+  <img align="center" alt="swift" src="https://img.shields.io/badge/Swift-orange?&logo=swift&logoColor=white" width="380">
+</div>
 
 ## Variables and Values Assignments
 
-We can assign any values to ours variables, example: String, Int, Double. But when we assign the type of a variable, we can not change anymore, in other words, if you create a variable with the type string, it will be a string forever
+#### We can assign any values to ours variables, example: String, Int, Double. But when we assign the type of a variable, we can not change anymore, in other words, if you create a variable with the type string, it will be a string forever
 
-### Naming Variables (Mutable and Constants)
+## Naming Variables (Mutable and Constants)
 
-### Mutable
+#### We can create variables with typing or without typing
 
-We can change the values assignment
+## Mutables
 
-var mutableVariableString = "Paulo Santos"
+#### We can change the values assignment
 
-### Constants
+#### Without typing:
 
-We can not change the values assignment
+- var mutableVariableString = "Paulo Santos"
 
-let variableName = "Paulo Santos"
+- var mutableVariableInt = 20
+
+- var mutableVariableDouble = 10.5
+
+#### With typing:
+
+- var mutableVariableString: String = "Paulo Santos"
+
+- var mutableVariableInt: Int = 20
+
+- var mutableVariableDouble: Double = 10.5
+
+## Constants
+
+#### We can not change the values assignment
+
+#### Without typing:
+
+- let constantVariableString = "Without typing"
+
+- let constantVariableInt = 20
+
+- let constantVariableDouble = 10.5
+
+#### With typing
+
+- let constantVariableString: String = "With typing"
+
+- let constantVariableInt: Int = 20
+
+- let constantVariableDouble: Double = 10.5

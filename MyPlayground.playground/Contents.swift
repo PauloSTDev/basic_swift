@@ -12,10 +12,20 @@ let constantVariableDouble = 10.5
 
 // You can assign a type int like this as well
 let integer = 10_000_00
-print(mutableVariableString)
-print(mutableVariableInt)
-print(mutableVariableDouble)
-print(constantVariableString)
-print(constantVariableInt)
-print(constantVariableDouble)
+
+// Assign values without typing
+let int = 10
+let double = 15.5
+let string = "string"
+
+// Assign values with typing (Mutable Variables)
+var int: Int = 10
+var double: Double = 15.5
+var string: String = "string"
+
+// Assign values with typing (Constants Variables)
+let int: Int = 10
+let double: Double = 15.5
+let string: String = "string"
+
 print(integer)
