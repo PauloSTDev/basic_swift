@@ -22,6 +22,8 @@
 
 - var mutableVariableDouble = 10.5
 
+- var mutableVariableBool = true
+
 #### With typing:
 
 - var mutableVariableString: String = "Paulo Santos"
@@ -29,6 +31,8 @@
 - var mutableVariableInt: Int = 20
 
 - var mutableVariableDouble: Double = 10.5
+
+- var mutableVariableBool: Bool = true
 
 ## Constants
 
@@ -49,3 +53,8 @@
 - let constantVariableInt: Int = 20
 
 - let constantVariableDouble: Double = 10.5
+
+## Types
+
+### https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types/
+
