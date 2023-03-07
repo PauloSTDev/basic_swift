@@ -14,7 +14,7 @@
 
 #### We can change the values assignment
 
-#### Without typing:
+#### Without typing (Type Inference):
 
 - var mutableVariableString = "Paulo Santos"
 
@@ -24,7 +24,7 @@
 
 - var mutableVariableBool = true
 
-#### With typing (Type annotations):
+#### With typing (Type Annotations):
 
 - var mutableVariableString: String = "Paulo Santos"
 
@@ -38,7 +38,7 @@
 
 #### We can not change the values assignment
 
-#### Without typing:
+#### Without typing (Type Inference):
 
 - let constantVariableString = "Without typing"
 
@@ -46,7 +46,7 @@
 
 - let constantVariableDouble = 10.5
 
-#### With typing (Type annotations):
+#### With typing (Type Annotations):
 
 - let constantVariableString: String = "With typing"
 
