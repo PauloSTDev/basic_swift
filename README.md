@@ -58,3 +58,6 @@
 
 ### https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types/
 
+## Class
+
+#### Works with object reference (Reference type)

@@ -1,4 +1,5 @@
 import Cocoa
+import UIKit
 
 // Mutable Variables
 var mutableVariableString = "Hello, test"
@@ -49,3 +50,26 @@ let xDouble = Double(x)
 print(xDouble)
 
 
+// Class
+class Person {
+    // Mark: - Attributes
+    var name: String
+    let surname: String
+    
+    // Mark: - Constructor Method
+    init(name: String, surname: String){
+        self.name = name
+        self.surname = surname
+    }
+}
+
+let person = Person(name: "Paulo", surname: "Santos")
+let newPerson = person
+
+print(person.name)
+print(newPerson.name)
+
+person.name = "Afonso"
+
+print(person.name)
+print(newPerson.name)
