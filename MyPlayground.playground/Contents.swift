@@ -87,3 +87,7 @@ var myDouble = 1.0
 // It isn’t allowed because it can’t be safe
 // var total = myInt + myDouble
 
+// String Interpolation
+var score = 85
+var str = "Your score was \(score)"
+print(str)
