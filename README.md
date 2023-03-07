@@ -72,6 +72,8 @@
 
 ## :book: Sources: 
 
+#### :notebook_with_decorative_cover: Swift Documentation: https://www.swift.org/documentation/
+
 #### :blue_book: Alura: https://cursos.alura.com.br/course/swift-ui
 
 #### :orange_book: Hacking Wift Swift: https://www.hackingwithswift.com/100/1
