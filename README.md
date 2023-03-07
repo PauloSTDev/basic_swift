@@ -61,3 +61,6 @@
 ## Class
 
 #### Works with object reference (Reference type)
+
+## Multi_line Strings
+#### To get the multi-line strings we need to start and end with three double quote marks.

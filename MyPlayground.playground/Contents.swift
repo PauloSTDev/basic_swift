@@ -49,6 +49,21 @@ let x = "15.5"
 let xDouble = Double(x)
 print(xDouble)
 
+// Multi-line Strings
+// To get the multi-line strings we need to start and end with three double quote marks.
+// String with line breaks
+var str1 = """
+This goes
+over multiple
+lines
+"""
+// String without line breaks
+var str2 = """
+This goes \
+over multiple \
+lines
+"""
+print(str2)
 
 // Class
 class Person {
@@ -65,11 +80,3 @@ class Person {
 
 let person = Person(name: "Paulo", surname: "Santos")
 let newPerson = person
-
-print(person.name)
-print(newPerson.name)
-
-person.name = "Afonso"
-
-print(person.name)
-print(newPerson.name)
