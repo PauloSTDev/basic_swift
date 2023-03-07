@@ -65,22 +65,6 @@ lines
 """
 print(str2)
 
-// Class
-class Person {
-    // Mark: - Attributes
-    var name: String
-    let surname: String
-    
-    // Mark: - Constructor Method
-    init(name: String, surname: String){
-        self.name = name
-        self.surname = surname
-    }
-}
-
-let person = Person(name: "Paulo", surname: "Santos")
-let newPerson = person
-
 // Doubles
 var myInt = 1
 var myDouble = 1.0

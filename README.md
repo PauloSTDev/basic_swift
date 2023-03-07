@@ -62,6 +62,10 @@
 
 #### Works with object reference (Reference type)
 
+## Struct
+
+#### Struct is similar to class but the Struct already has a constructor when we initialize the class, are independent, use copy of the value (Value Type) and with Struct we can't use heritage.
+
 ## Multi-line Strings
 #### To get the multi-line strings we need to start and end with three double quote marks.
 
@@ -76,7 +80,6 @@
 <div align="center">
   <img width="350" alt="Captura de Tela 2023-03-07 às 15 35 36" src="https://user-images.githubusercontent.com/67521304/223518014-9802027f-fae2-48fe-bfa9-370d06bffd1e.png">
 </div>
-
 
 ## :book: Sources: 
 
