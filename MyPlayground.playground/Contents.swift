@@ -80,3 +80,10 @@ class Person {
 
 let person = Person(name: "Paulo", surname: "Santos")
 let newPerson = person
+
+// Doubles
+var myInt = 1
+var myDouble = 1.0
+// It isn’t allowed because it can’t be safe
+// var total = myInt + myDouble
+
