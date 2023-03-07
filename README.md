@@ -62,5 +62,11 @@
 
 #### Works with object reference (Reference type)
 
-## Multi_line Strings
+## Multi-line Strings
 #### To get the multi-line strings we need to start and end with three double quote marks.
+
+<div align="center">
+  <img width="350" alt="Captura de Tela 2023-03-06 às 21 54 31" src="https://user-images.githubusercontent.com/67521304/223291250-a84d8ae6-665a-41f5-b2b1-14c3f850aed5.png">
+</div>
+
+
