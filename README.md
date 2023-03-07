@@ -70,3 +70,10 @@
 </div>
 
 
+## :book: Sources: 
+
+#### :blue_book: Alura: https://cursos.alura.com.br/course/swift-ui
+
+#### :orange_book: Hacking Wift Swift: https://www.hackingwithswift.com/100/1
+
+#### :closed_book: Curso de Swift - Programação - Tiago Aguiar: https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-
