@@ -73,6 +73,11 @@
 
 #### All we have to do is write a backslash, \, followed by your variable name in parentheses
 
+<div align="center">
+  <img width="350" alt="Captura de Tela 2023-03-07 às 15 35 36" src="https://user-images.githubusercontent.com/67521304/223518014-9802027f-fae2-48fe-bfa9-370d06bffd1e.png">
+</div>
+
+
 ## :book: Sources: 
 
 #### :notebook_with_decorative_cover: Swift Documentation: https://www.swift.org/documentation/
