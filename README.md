@@ -24,7 +24,7 @@
 
 - var mutableVariableBool = true
 
-#### With typing:
+#### With typing (Type annotations):
 
 - var mutableVariableString: String = "Paulo Santos"
 
@@ -46,7 +46,7 @@
 
 - let constantVariableDouble = 10.5
 
-#### With typing
+#### With typing (Type annotations):
 
 - let constantVariableString: String = "With typing"
 
