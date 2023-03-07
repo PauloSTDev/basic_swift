@@ -64,7 +64,7 @@
 
 ## Struct
 
-#### Struct is similar to class but the Struct already has a constructor when we initialize the class, are independent, use copy of the value (Value Type) and with Struct we can't use heritage.
+#### Struct is similar to class but the Struct already has a constructor when we initialize it, are independent, use copy of the value (Value Type) and with Struct we can't use heritage.
 
 ## Multi-line Strings
 #### To get the multi-line strings we need to start and end with three double quote marks.
