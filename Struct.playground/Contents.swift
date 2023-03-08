@@ -24,4 +24,12 @@ print(newPerson.name)
 
 // Struct = Copy of the value = Value Type
 // Structs are independents
-// With Struct we can't use heritage
+// With Struct we can't use heritage but use protocol implementations.
+
+protocol View {
+    var body: View{ get }
+}
+
+struct ContentView: View{
+    var body: View
+}
